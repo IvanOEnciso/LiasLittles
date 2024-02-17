@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lia's Little's Daycare</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+            color: #333;
+        }
+        header {
+            background-color: #48a9a6;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1, h2, h3 {
+            margin: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .bio {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .social-links {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social-links a {
+            margin: 0 10px;
+            color: #333;
+            text-decoration: none;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Lia's Little's Daycare</h1>
+</header>
+
+<div class="container">
+    <div class="bio">
+        <h2>About Kelia Hegeman</h2>
+        <p>Hi, I'm Kelia Hegeman, a licensed daycare provider through the state of Oregon. I graduated from Southern Oregon University and I'm excited to welcome your little ones to Lia's Little's Daycare.</p>
+        <p>Located at Kids Unlimited.</p>
+    </div>
+    
+    <div class="social-links">
+        <a href="https://www.facebook.com" target="_blank">Facebook</a>
+        <a href="https://www.twitter.com" target="_blank">Twitter</a>
+        <a href="https://www.instagram.com" target="_blank">Instagram</a>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Lia's Little's Daycare. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
